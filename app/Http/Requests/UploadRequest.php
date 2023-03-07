@@ -23,7 +23,6 @@ class UploadRequest extends FormRequest
     {
         return [
             'file' => 'required|image|max:2048',
-            'email' => 'required|email',
         ];
     }
 }

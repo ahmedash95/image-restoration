@@ -2,6 +2,8 @@
 
 Uses Replicate's [Image Restoration](https://replicate.com/collections/image-restoration) model to restore and enhance images.
 
+![home](home.png)
+
 ### Stack
 
 - Laravel
